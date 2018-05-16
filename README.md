@@ -38,3 +38,4 @@ Bellow was the organization of each category.
 - Problem 1004 - Simple Product [(src/main/java/beginner/problem1004)](src/main/java/beginner/problem1004)
 - Problem 1005 - Avarage 1 [(src/main/java/beginner/problem1005)](src/main/java/beginner/problem1005)
 - Problem 1006 - Avarage 1 [(src/main/java/beginner/problem1006)](src/main/java/beginner/problem1006)
+- Problem 1007 - Difference [(src/main/java/beginner/problem1007)](src/main/java/beginner/problem1007)
