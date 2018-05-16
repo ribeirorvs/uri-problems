@@ -42,3 +42,19 @@ Only one variable, 'x'.
 Only one print line using 'System.out.println()' to show the sum and the endline
 
 With this solution you can reach the RUNTIME = 0.036
+
+## More inputs and outputs
+
+| Input | Output|
+|-------|-------|
+| 230 | X = 242 |
+| 12 | |
+| | |
+| -122 | X = -1104 |
+| -982 | |
+| | |
+| -328 | X = 209 |
+| 537 | |
+| | |
+| 226 | X = -214 |
+| -440 | |
