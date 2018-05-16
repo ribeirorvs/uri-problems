@@ -41,3 +41,4 @@ Bellow was the organization of each category.
 - Problem 1007 - Difference [(src/main/java/beginner/problem1007)](src/main/java/beginner/problem1007)
 - Problem 1008 - Salary [(src/main/java/beginner/problem1008)](src/main/java/beginner/problem1008)
 - Problem 1009 - Salary with Bonus [(src/main/java/beginner/problem1009)](src/main/java/beginner/problem1009)
+- Problem 1010 - Simple Calculate [(src/main/java/beginner/problemq1010)](src/main/java/beginner/problem1010)
