@@ -20,6 +20,7 @@ In the URI each problem have a category, like beginner, a number, a name and a d
 The solutions are all included in the path src/main/java/$category/problem$number. Where $categori is the category of the problem, like beginner, and $number is the number of the problem, like 1001.
 Example, the first problem, number 1001, of the beginner category is on the path:
 > src/main/java/beginner/problem1001
+
 With the Main.java, the path have a README.md to describe the problem and detail the solution.
 Bellow was the organization of each category.
 
