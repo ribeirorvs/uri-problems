@@ -4,7 +4,7 @@
 
 @Author Neilor Tonin (adapted)
 
-@URL https://www.urionlinejudge.com.br/judge/en/problems/view/1001
+@URL https://www.urionlinejudge.com.br/judge/en/problems/view/1007
 
 @Timelimite 1
 
