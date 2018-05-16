@@ -31,6 +31,6 @@ Obs.: don't forget the endline after all.
 | 4 | |
 | | |
 | 15 | X = 8 |
-| -7 | |
+| -7 |
 
 RUNTIME = 0.036
