@@ -1,2 +1,3 @@
 #Problem 1001 - Extremely Basic
-__future documentation about this solution__
+_future documentation about this solution_
+RUNTIME = 0.036
