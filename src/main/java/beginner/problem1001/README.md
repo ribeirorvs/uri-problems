@@ -31,6 +31,14 @@ Obs.: don't forget the endline after all.
 | 4 | |
 | | |
 | 15 | X = 8 |
-| -7 |
+| -7 | |
 
-RUNTIME = 0.036
+## Solution details
+
+To solve this problem the code use a class 'BufferedReader' and 'InputStreamReader'.
+
+Only one variable, 'x'.
+
+Only one print line using 'System.out.println()' to show the sum and the endline
+
+With this solution you can reach the RUNTIME = 0.036
