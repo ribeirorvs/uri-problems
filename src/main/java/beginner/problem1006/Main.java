@@ -18,10 +18,10 @@ public class Main {
 	 */
 	public static void main(String[] args) throws IOException {
 		BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-		double x = Double.parseDouble(reader.readLine())*2;
-		x += Double.parseDouble(reader.readLine())*3;
-		x += Double.parseDouble(reader.readLine())*5;
-		System.out.printf("MEDIA = %.1f\n", (x/10));
+		double x = ((Double.parseDouble(reader.readLine())*2)+
+				(Double.parseDouble(reader.readLine())*3) +
+				(Double.parseDouble(reader.readLine())*5))/10;
+		System.out.printf("MEDIA = %.1f\n", x);
 	}
 
 }
