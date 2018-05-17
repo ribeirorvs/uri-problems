@@ -18,7 +18,6 @@ public class Main {
 	 */
 	public static void main(String[] args) throws IOException {
 		BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-		int R = Integer.parseInt(reader.readLine());
 		System.out.printf("VOLUME = %.3f\n", ((4.0/3) * 3.14159 *
 									(Math.pow(Double.parseDouble(reader.readLine()), 3))));
 	}
