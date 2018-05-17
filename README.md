@@ -44,3 +44,4 @@ Bellow was the organization of each category.
 - Problem 1010 - Simple Calculate [(src/main/java/beginner/problemq1010)](src/main/java/beginner/problem1010)
 - Problem 1011 - Sphere [(src/main/java/beginner/problem1011)](src/main/java/beginner/problem1011)
 - Problem 1012 - Area [(src/main/java/beginner/problem1012)](src/main/java/beginner/problem1012)
+- Problem 1013 - The Greatest [(src/main/java/beginner/problem1013)](src/main/java/beginner/problem1013)
