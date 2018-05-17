@@ -45,3 +45,4 @@ Bellow was the organization of each category.
 - Problem 1011 - Sphere [(src/main/java/beginner/problem1011)](src/main/java/beginner/problem1011)
 - Problem 1012 - Area [(src/main/java/beginner/problem1012)](src/main/java/beginner/problem1012)
 - Problem 1013 - The Greatest [(src/main/java/beginner/problem1013)](src/main/java/beginner/problem1013)
+- Problem 1014 - Consumption [(src/main/java/beginner/problem1014)](src/main/java/beginner/problem1014)
