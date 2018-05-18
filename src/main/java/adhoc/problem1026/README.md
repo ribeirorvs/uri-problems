@@ -11,6 +11,7 @@
 ## Description
 
 6+9=15 seems okay. But how come 4+6=2?
+
 ![(AB)+((A!B)+(!AB)](https://urionlinejudge.r.worldssl.net/gallery/images/problems/UOJ_1026.png)
 
 Look at, Mofiz worked hard throughout his Digital Logic course, but when he was asked to implement a 32 bit adder for the laboratory exam, he did some mistake in the design part. After scavenging the design for half an hour, he found his flaw!! He was doing bitwise addition but his carry bit always had zero output. Thus,
