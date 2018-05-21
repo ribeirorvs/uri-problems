@@ -41,7 +41,7 @@ For each test case we will have an output line, presenting in the following form
 
 ## Solution details
 
-Tho solve this problem the code use class 'Scanner'.
+Tho solve this problem the code use class `Scanner`.
 
 Five variables.
 
@@ -59,7 +59,7 @@ With this solution you can reach the RUMTIME = 0.928
 | | |
 | 7 2 | Case 3: 5 |
 | | |
-| 15 3 | | Case 4: 2 |
+| 15 3 | Case 4: 2 |
 | | |
 | 17 7 | Case 5: 11 |
 | | |

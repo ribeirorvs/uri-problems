@@ -33,11 +33,11 @@ Print the variable **SOMA** with all the capital letters, with a blank space bef
 
 ## Solution details
 
-To solve this problem the code use a class 'BufferedReader' and 'InputStreamReader'.
+To solve this problem the code use a class `BufferedReader` and `InputStreamReader`.
 
-Two variable, 'A' and 'B'.
+Two variable, `A` and `B`.
 
-Only one print line using 'System.out.println()' to show the sum and the endline.
+Only one print line using `System.out.println()` to show the sum and the endline.
 
 With this solution you can reach the RUNTIME = 0.048
 

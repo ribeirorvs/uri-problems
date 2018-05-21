@@ -42,11 +42,11 @@ Print the seller's total salary, according to the given example.
 
 ## Solution details
 
-To solve this problem the code use a class 'BufferedReader' and 'InputStreamReader'.
+To solve this problem the code use a class `BufferedReader` and `InputStreamReader`.
 
 Without any variable.
 
-Only one print line using 'System.out.printf()' to show the salary with 'double' format and the endline
+Only one print line using `System.out.printf()` to show the salary with `double` format and the endline
 
 With this solution you can reach the RUNTIME = 0.060
 

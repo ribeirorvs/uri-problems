@@ -33,11 +33,11 @@ Print **PROD** according to the following example, with a blank space before and
 
 ## Solution details
 
-To solve this problem the code use a class 'BufferedReader' and 'InputStreamReader'.
+To solve this problem the code use a class `BufferedReader` and `InputStreamReader`.
 
-Only one variable, 'PROD'.
+Only one variable, `PROD`.
 
-Only one print line using 'System.out.println()' to show the sum and the endline
+Only one print line using `System.out.println()` to show the sum and the endline
 
 With this solution you can reach the RUNTIME = 0.048
 

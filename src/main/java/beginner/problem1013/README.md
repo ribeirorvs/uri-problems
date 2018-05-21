@@ -31,11 +31,11 @@ Print the greatest of these three values followed by a space and the message “
 
 ## Solution details
 
-To solve this problem the code use a class 'BufferedReader' and 'InputStreamReader'.
+To solve this problem the code use a class `BufferedReader` and `InputStreamReader`.
 
-Only one variable, 'line1'.
+Only one variable, `line1`.
 
-Only one print line using 'System.out.println()' to show the greatest and the endline
+Only one print line using `System.out.println()` to show the greatest and the endline
 
 With this solution you can reach the RUNTIME = 0.052
 

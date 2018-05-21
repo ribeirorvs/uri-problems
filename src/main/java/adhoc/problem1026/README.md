@@ -40,11 +40,11 @@ For each input line, the program must provide an output's line: the value after 
 
 ## Solution details
 
-To solve this problem the code use a class 'Scanner'.
+To solve this problem the code use a class `Scanner`.
 
-Two variables, 'x' and 'y'.
+Two variables, `x` and `y`.
 
-Only one print line using 'System.out.println()' to show the result and the endline
+Only one print line using `System.out.println()` to show the result and the endline
 
 With this solution you can reach the RUNTIME = 0.836
 

@@ -42,9 +42,9 @@ The output file must contain 5 lines of data. Each line corresponds to one of th
 
 ## Solution details
 
-To solve this problem the code use a class 'BufferedReader' and 'InputStreamReader'.
+To solve this problem the code use a class `BufferedReader` and `InputStreamReader`.
 
-Only one print line using 'System.out.printf()' to show the all areas with 'double' formated and the endline
+Only one print line using `System.out.printf()` to show the all areas with `double` formated and the endline
 
 With this solution you can reach the RUNTIME = 0.040
 

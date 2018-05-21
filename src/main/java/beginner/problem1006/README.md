@@ -36,11 +36,11 @@ Print **MEDIA**(average in Portuguese) according to the following example, with 
 
 ## Solution details
 
-To solve this problem the code use a class 'BufferedReader' and 'InputStreamReader'.
+To solve this problem the code use a class `BufferedReader` and `InputStreamReader`.
 
-Only one variable, 'x'.
+Only one variable, `x`.
 
-Only one print line using 'System.out.printf()' to show the area with a 'double' formated and the endline
+Only one print line using `System.out.printf()` to show the area with a `double` formated and the endline
 
 With this solution you can reach the RUNTIME = 0.060
 
