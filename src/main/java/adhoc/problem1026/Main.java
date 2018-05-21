@@ -13,5 +13,6 @@ public class Main {
 			y = sc.nextLong();
 			System.out.println(x^y);
 		}
+		sc.close();
 	}
 }
