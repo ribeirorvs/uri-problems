@@ -51,9 +51,6 @@ public class Main {
                 }
             }
         }
-<<<<<<< HEAD
         sc.close();
-=======
->>>>>>> 4feb27a5196b7a54662f0c0bf29732e6e1f0099c
     }
 }

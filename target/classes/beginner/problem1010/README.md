@@ -33,11 +33,11 @@ The output file must be a message like the following example where "Valor a paga
 
 ## Solution details
 
-To solve this problem the code use a class 'BufferedReader' and 'InputStreamReader'.
+To solve this problem the code use a class `BufferedReader` and `InputStreamReader`.
 
-Two vector variable, 'line1' and 'line2'.
+Two vector variable, `line1` and `line2`.
 
-Only one print line using 'System.out.printf()' to show the total with 'double' formated and the endline
+Only one print line using `System.out.printf()` to show the total with `double` formated and the endline
 
 With this solution you can reach the RUNTIME = 0.064
 

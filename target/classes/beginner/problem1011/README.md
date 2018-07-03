@@ -32,9 +32,9 @@ The output must be a message "VOLUME" like the following example with a space be
 
 ## Solution details
 
-To solve this problem the code use a class 'BufferedReader' and 'InputStreamReader'.
+To solve this problem the code use a class `BufferedReader` and `InputStreamReader`.
 
-Only one print line using 'System.out.printf()' to show the volume with 'double' formated and the endline
+Only one print line using `System.out.printf()` to show the volume with `double` formated and the endline
 
 With this solution you can reach the RUNTIME = 0.060
 

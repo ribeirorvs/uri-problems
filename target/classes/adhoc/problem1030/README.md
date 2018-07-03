@@ -41,8 +41,27 @@ For each test case we will have an output line, presenting in the following form
 
 ## Solution details
 
+Tho solve this problem the code use class `Scanner`.
+
+Five variables.
+
+Only one print line using `System.out.println()`to show the result and the endline
+
+With this solution you can reach the RUMTIME = 0.928
 
 ## More inputs and outputs
 
 | Samples Input | Samples Output|
 |---------------|---------------|
+| 5  | Case 1: 2 |
+| | |
+| 2 1 | Case 2: 7 |
+| | |
+| 7 2 | Case 3: 5 |
+| | |
+| 15 3 | Case 4: 2 |
+| | |
+| 17 7 | Case 5: 11 |
+| | |
+| 17 5 | |
+| | |

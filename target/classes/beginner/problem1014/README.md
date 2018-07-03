@@ -33,9 +33,9 @@ Present a value that represents the average consumption of a car with 3 digits a
 
 ## Solution details
 
-To solve this problem the code use a class 'BufferedReader' and 'InputStreamReader'.
+To solve this problem the code use a class `BufferedReader` and `InputStreamReader`.
 
-Only one print line using 'System.out.printf()' to show the km/l with 'double' format and the endline
+Only one print line using `System.out.printf()` to show the km/l with `double` format and the endline
 
 With this solution you can reach the RUNTIME = 0.060
 

@@ -32,11 +32,11 @@ Present the message "A=" followed by the value of the variable, as in the exampl
 
 ## Solution details
 
-To solve this problem the code use a class 'BufferedReader' and 'InputStreamReader'.
+To solve this problem the code use a class `BufferedReader` and `InputStreamReader`.
 
-Only one variable, 'R'.
+Only one variable, `R`.
 
-Only one print line using 'System.out.printf()' to show the area with a 'double' formated and the endline
+Only one print line using `System.out.printf()` to show the area with a `double` formated and the endline
 
 With this solution you can reach the RUNTIME = 0.072
 
