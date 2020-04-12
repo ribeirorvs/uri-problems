@@ -52,3 +52,4 @@ Bellow was the organization of each category.
 
 - Problem 1026 - To Carry or not to Carry [(src/main/java/adhoc/problem1026)](src/main/java/adhoc/problem1026)
 - Problem 1030 - Flavious Josephus Legend [(src/main/java/adhoc/problem1030)](src/main/java/adhoc/problem1030)
+- Problem 1031 - Power Crisis [(src/main/java/adhoc/problem1031)](src/main/java/adhoc/problem1031)
