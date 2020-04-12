@@ -16,11 +16,9 @@ public class Main {
 	 */
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		int totalRegions = sc.nextInt();
-		int[] regions;
+		int[] regions = new int[sc.nextInt()];
 		int steps = 0;
-		while(totalRegions != 0) {
-			regions = new int[totalRegions];
+		while(regions.length != 0) {
 			createArray(regions);
 			int count = 1;
 			int index = 1;
@@ -51,7 +49,7 @@ public class Main {
 				}
 			}
 			System.out.println(steps);
-			//totalRegions = sc.nextInt();
+			regions = new int[sc.nextInt()];
 		}
 		sc.close();
 	}
